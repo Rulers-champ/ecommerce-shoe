@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/ecommerce-shoe/static/css/main.6657d02d.css",
+    "main.js": "/ecommerce-shoe/static/js/main.7a54f8bc.js",
+    "static/media/bg.jpg": "/ecommerce-shoe/static/media/bg.dbfe33385f6b11ff3eca.jpg",
+    "static/media/tonikroos.jpg": "/ecommerce-shoe/static/media/tonikroos.fb061c76e3ec05875a55.jpg",
+    "static/media/grasspic.jpg": "/ecommerce-shoe/static/media/grasspic.60d418585600b05647eb.jpg",
+    "static/media/White-1.jpeg": "/ecommerce-shoe/static/media/White-1.b82cdfa383b60c2e62f7.jpeg",
+    "static/media/Black-1.jpeg": "/ecommerce-shoe/static/media/Black-1.1b5b7d102c8016f8816e.jpeg",
+    "static/media/christiano.jpg": "/ecommerce-shoe/static/media/christiano.6c59ff44f69c755a3933.jpg",
+    "static/media/Green-1.jpeg": "/ecommerce-shoe/static/media/Green-1.44dc6e49aa5a4bf5af47.jpeg",
+    "static/media/White-2.jpeg": "/ecommerce-shoe/static/media/White-2.f7d2dbfa68dd597ec875.jpeg",
+    "static/media/Blue-1.jpeg": "/ecommerce-shoe/static/media/Blue-1.97b560001ab025095fbd.jpeg",
+    "static/media/Red-1.jpeg": "/ecommerce-shoe/static/media/Red-1.54ceb10ae28a361cb8ff.jpeg",
+    "static/media/Black-2.jpeg": "/ecommerce-shoe/static/media/Black-2.28acbc4510a39ca6d420.jpeg",
+    "static/media/Green-2.jpeg": "/ecommerce-shoe/static/media/Green-2.102bdbd87a7f6d5032c6.jpeg",
+    "static/media/Blue-2.jpeg": "/ecommerce-shoe/static/media/Blue-2.1a02b506ff8d9786b557.jpeg",
+    "static/media/Green-3.jpeg": "/ecommerce-shoe/static/media/Green-3.33b66a11e2a7e7e60d33.jpeg",
+    "static/media/Green-4.jpeg": "/ecommerce-shoe/static/media/Green-4.8308dc17cd46ada6628c.jpeg",
+    "static/media/Red-2.jpeg": "/ecommerce-shoe/static/media/Red-2.abec6b04abededa1c357.jpeg",
+    "static/media/cancel.png": "/ecommerce-shoe/static/media/cancel.39109d23229335de0a21.png",
+    "static/media/Black-3.jpeg": "/ecommerce-shoe/static/media/Black-3.fc6d420a94f45a07696e.jpeg",
+    "static/media/zidane.jpg": "/ecommerce-shoe/static/media/zidane.b7444a37d5bbb4202777.jpg",
+    "static/media/checkmark.png": "/ecommerce-shoe/static/media/checkmark.0ad340259a8c140a65cd.png",
+    "static/media/filter.png": "/ecommerce-shoe/static/media/filter.021da73852e663adf47d.png",
+    "static/media/location.png": "/ecommerce-shoe/static/media/location.a405c2668c55f74c09be.png",
+    "static/media/Blue3.jpeg": "/ecommerce-shoe/static/media/Blue3.33a5195de6b707fce016.jpeg",
+    "static/media/calendar.png": "/ecommerce-shoe/static/media/calendar.fcb59f6638e1c3e6d136.png",
+    "static/media/medium.png": "/ecommerce-shoe/static/media/medium.b87629cbe6267bf69b33.png",
+    "static/media/bag.png": "/ecommerce-shoe/static/media/bag.9c816c6b923ef947a58e.png",
+    "static/media/insta@3x.png": "/ecommerce-shoe/static/media/insta@3x.c4d673ce19f2db9ebc9c.png",
+    "static/media/ikercasillas.jpg": "/ecommerce-shoe/static/media/ikercasillas.3d1a1e063e58e3314681.jpg",
+    "index.html": "/ecommerce-shoe/index.html",
+    "main.6657d02d.css.map": "/ecommerce-shoe/static/css/main.6657d02d.css.map",
+    "main.7a54f8bc.js.map": "/ecommerce-shoe/static/js/main.7a54f8bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6657d02d.css",
+    "static/js/main.7a54f8bc.js"
+  ]
+}
